@@ -14,7 +14,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -64,7 +63,3 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Website - [Leonel Leon](https://github.com/Leon2610)
 - Frontend Mentor - [@Leon2610](https://www.frontendmentor.io/profile/Leon2610)
 - Twitter - [@LeoDev26](https://twitter.com/LeoDev26)
-
-## Acknowledgments
-
-For this challenge I personally thank the Youtube channel [Bluuweb](https://www.youtube.com/c/Bluuweb), as it helped me a lot to understand certain things I needed for the challenge and motivated me to continue learning about technology and web development.
