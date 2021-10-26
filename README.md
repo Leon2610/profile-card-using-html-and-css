@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL:
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/profilecardusinghtmlandcss-OdyUG3O7A
+- Live Site URL: https://leon2610.github.io/profile-card-using-html-and-css/
 
 ## My process
 
